@@ -50,7 +50,7 @@
     "@types/pixi.js": "^4.7.5",
     "animate.css": "^3.6.1",
     "asn1": "^0.2.3",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "browserfs": "^1.4.3",
     "core-js": "2.4.1",
     "csshake": "^1.5.3",
