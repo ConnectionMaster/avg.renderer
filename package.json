@@ -89,7 +89,7 @@
     "cross-env": "5.0.1",
     "css-loader": "0.28.4",
     "cssnano": "3.10.0",
-    "electron": "^1.8.8",
+    "electron": "^9.4.0",
     "electron-connect": "^0.6.1",
     "electron-packager": "8.7.2",
     "electron-reload": "1.2.1",
